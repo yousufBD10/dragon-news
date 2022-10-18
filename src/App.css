@@ -1,10 +1,12 @@
 .App {
-  text-align: center;
+  /* background-color: #5ae285;
+  border: 3px solid white; */
+  margin: 20px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Apps {
+  text-align: center;
+ 
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -21,7 +23,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  /* color: white; */
 }
 
 .App-link {
@@ -35,4 +37,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+.container{
+  color: #61dafb;
+  /* background-color: cornsilk; */
+
 }
